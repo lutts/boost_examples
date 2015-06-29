@@ -1,0 +1,297 @@
+[
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/attr_value_extraction.dir/attr_value_extraction.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/attr_value_extraction.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/attr_value_extraction.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/attr_value_visitation.dir/attr_value_visitation.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/attr_value_visitation.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/attr_value_visitation.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/core_core_manual.dir/core_core_manual.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/core_core_manual.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/core_core_manual.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/core_record.dir/core_record.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/core_record.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/core_record.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/exception_handling.dir/exception_handling.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/exception_handling.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/exception_handling.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/expressions_attr_fmt_tag.dir/expressions_attr_fmt_tag.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/expressions_attr_fmt_tag.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/expressions_attr_fmt_tag.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/expressions_channel_severity_filter.dir/expressions_channel_severity_filter.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/expressions_channel_severity_filter.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/expressions_channel_severity_filter.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/expressions_has_attr_stat_accum.dir/expressions_has_attr_stat_accum.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/expressions_has_attr_stat_accum.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/expressions_has_attr_stat_accum.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/expressions_keyword_fmt_tag.dir/expressions_keyword_fmt_tag.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/expressions_keyword_fmt_tag.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/expressions_keyword_fmt_tag.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/extension_app_launcher.dir/extension_app_launcher.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/extension_app_launcher.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/extension_app_launcher.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/extension_filter_parser.dir/extension_filter_parser.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/extension_filter_parser.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/extension_filter_parser.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/extension_filter_parser_custom_rel.dir/extension_filter_parser_custom_rel.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/extension_filter_parser_custom_rel.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/extension_filter_parser_custom_rel.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/extension_formatter_parser.dir/extension_formatter_parser.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/extension_formatter_parser.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/extension_formatter_parser.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/extension_record_tagger.dir/extension_record_tagger.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/extension_record_tagger.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/extension_record_tagger.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/extension_stat_collector.dir/extension_stat_collector.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/extension_stat_collector.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/extension_stat_collector.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/extension_stat_collector_settings.dir/extension_stat_collector_settings.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/extension_stat_collector_settings.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/extension_stat_collector_settings.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/extension_system_uptime_attr.dir/extension_system_uptime_attr.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/extension_system_uptime_attr.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/extension_system_uptime_attr.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_async.dir/sinks_async.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_async.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_async.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_async_bounded.dir/sinks_async_bounded.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_async_bounded.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_async_bounded.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_async_ordering.dir/sinks_async_ordering.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_async_ordering.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_async_ordering.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_debugger.dir/sinks_debugger.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_debugger.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_debugger.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_file.dir/sinks_file.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_file.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_file.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_multifile.dir/sinks_multifile.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_multifile.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_multifile.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_ostream.dir/sinks_ostream.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_ostream.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_ostream.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_simple_event_log.dir/sinks_simple_event_log.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_simple_event_log.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_simple_event_log.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_sync.dir/sinks_sync.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_sync.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_sync.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_syslog.dir/sinks_syslog.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_syslog.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_syslog.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_unlocked.dir/sinks_unlocked.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_unlocked.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_unlocked.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sinks_xml_file.dir/sinks_xml_file.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sinks_xml_file.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sinks_xml_file.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sources_net_connection.dir/sources_net_connection.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sources_net_connection.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sources_net_connection.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sources_net_connection_chan.dir/sources_net_connection_chan.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sources_net_connection_chan.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sources_net_connection_chan.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sources_net_connection_dynamic_chan.dir/sources_net_connection_dynamic_chan.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sources_net_connection_dynamic_chan.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sources_net_connection_dynamic_chan.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sources_severity.dir/sources_severity.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sources_severity.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sources_severity.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/sources_severity_channel.dir/sources_severity_channel.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/sources_severity_channel.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/sources_severity_channel.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_attributes.dir/tutorial_attributes.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_attributes.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_attributes.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_file.dir/tutorial_file.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_file.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_file.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_file_manual.dir/tutorial_file_manual.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_file_manual.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_file_manual.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_filtering.dir/tutorial_filtering.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_filtering.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_filtering.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_fmt_custom.dir/tutorial_fmt_custom.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_custom.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_custom.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_fmt_format.dir/tutorial_fmt_format.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_format.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_format.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_fmt_stream.dir/tutorial_fmt_stream.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_stream.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_stream.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_fmt_stream_manual.dir/tutorial_fmt_stream_manual.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_stream_manual.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_stream_manual.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_fmt_string.dir/tutorial_fmt_string.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_string.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_fmt_string.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_logging.dir/tutorial_logging.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_logging.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_logging.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_trivial.dir/tutorial_trivial.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_trivial.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_trivial.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/tutorial_trivial_flt.dir/tutorial_trivial_flt.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/tutorial_trivial_flt.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/tutorial_trivial_flt.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/util_dynamic_type_disp.dir/util_dynamic_type_disp.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/util_dynamic_type_disp.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/util_dynamic_type_disp.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/util_manip_to_log.dir/util_manip_to_log.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/util_manip_to_log.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/util_manip_to_log.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/util_static_type_disp.dir/util_static_type_disp.cpp.o -c /home/lutts/devel2/Qt/Qt5/blog/util_static_type_disp.cpp",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/util_static_type_disp.cpp"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/csfreebird",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/csfreebird -I/home/lutts/devel2/Qt/Qt5/blog/csfreebird -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -g -save-temps -o CMakeFiles/boostLogTest.dir/main.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/csfreebird/main.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/csfreebird/main.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/csfreebird",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/csfreebird -I/home/lutts/devel2/Qt/Qt5/blog/csfreebird -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -g -save-temps -o CMakeFiles/boostLogTest.dir/logger.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/csfreebird/logger.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/csfreebird/logger.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/snail",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/snail -I/home/lutts/devel2/Qt/Qt5/blog/snail -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -o CMakeFiles/snail.dir/main.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/snail/main.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/snail/main.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/snail",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/snail -I/home/lutts/devel2/Qt/Qt5/blog/snail -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -o CMakeFiles/snail.dir/modulea.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/snail/modulea.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/snail/modulea.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/snail",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/snail -I/home/lutts/devel2/Qt/Qt5/blog/snail -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -o CMakeFiles/snail.dir/moduleb.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/snail/moduleb.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/snail/moduleb.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/snail",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/snail -I/home/lutts/devel2/Qt/Qt5/blog/snail -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -o CMakeFiles/snail.dir/modulec.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/snail/modulec.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/snail/modulec.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/snail",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/snail -I/home/lutts/devel2/Qt/Qt5/blog/snail -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -o CMakeFiles/snail.dir/moduleaa.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/snail/moduleaa.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/snail/moduleaa.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/snail",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/snail -I/home/lutts/devel2/Qt/Qt5/blog/snail -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/snaillog.dir/log.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/snail/log.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/snail/log.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/snail",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/snail -I/home/lutts/devel2/Qt/Qt5/blog/snail -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -DBOOST_LOG_DYN_LINK -o CMakeFiles/snaillog.dir/user_log_testspy.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/snail/user_log_testspy.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/snail/user_log_testspy.cc"
+},
+{
+  "directory": "/home/lutts/devel2/Qt/Qt5/blog/build/snail",
+  "command": "/usr/bin/c++    -Wall -Wextra -Werror -Wno-error=unused-variable -I/home/lutts/devel2/Qt/Qt5/blog/build/snail -I/home/lutts/devel2/Qt/Qt5/blog/snail -I/home/lutts/devel2/Qt/Qt5/blog    -std=c++11 -g -o CMakeFiles/snailtest.dir/log_test.cc.o -c /home/lutts/devel2/Qt/Qt5/blog/snail/log_test.cc",
+  "file": "/home/lutts/devel2/Qt/Qt5/blog/snail/log_test.cc"
+}
+]
